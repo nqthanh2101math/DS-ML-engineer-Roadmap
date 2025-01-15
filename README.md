@@ -29,3 +29,4 @@
 + Introduction to Large Language Models - Coursera
 + Generative AI with LLMs - Coursera 
  .....
+<img width="355" alt="image" src="https://github.com/user-attachments/assets/7be319ff-6da6-4cdc-a176-7806ae328548" />
