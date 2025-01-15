@@ -30,4 +30,4 @@
 + Generative AI with LLMs - Coursera 
  .....
 <img width="355" alt="image" src="https://github.com/user-attachments/assets/7be319ff-6da6-4cdc-a176-7806ae328548" />
-<img width="1300" alt="image" src="https://github.com/user-attachments/assets/d8f324f1-ffd5-435c-ad2e-f8316e1c32a1" />
+<img width="2000" alt="image" src="https://github.com/user-attachments/assets/d8f324f1-ffd5-435c-ad2e-f8316e1c32a1" />
