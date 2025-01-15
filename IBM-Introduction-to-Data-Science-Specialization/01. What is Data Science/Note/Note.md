@@ -1,0 +1,178 @@
+# 1. What is Data Science?
+
+---
+
+# Week01 - Defining Data Science and What Data Scientists Do
+
+## **Defining Data Science and What Data Scientists Do**
+
+- Defining Data Science
+- What is Data Science?
+- Fundamentals of Data Science
+- The Many Paths to Data Science
+- Advice for New Data Scientists
+- Data Science: The Sexiest Job in the 21st Century
+
+## **What Do Data Scientists Do?**
+
+- A day in the Life of a Data Scientist
+- Old problems, new problems, Data Science solutions
+- Data Science Topics and Algorithms
+- What is the cloud?
+- What Makes Someone a Data Scientist?
+
+## **Data Science Topics**
+
+- Foundations of Big Data
+- How Big Data is Driving Digital Transformation
+- What is Hadoop?
+- Data Science Skills & Big Data
+- Data Scientists at New York University
+- Data Mining
+- Quiz: Data Mining
+
+## **Deep Learning and Machine Learning**
+
+- What's the difference?
+- Neural Networks and Deep Learning
+- Applications of Machine Learning
+- Regression
+- Quiz: Regression
+
+## **Data Science in Business**
+
+- Applications of Data Science
+- How Data Science is Saving Lives
+- How Should Companies Get Started in Data Science?
+- Applications of Data Science
+- The Final Deliverable
+- Quiz: The Final Deliverable
+
+## **Careers and Recruiting in Data Science**
+
+- How Can Someone Become a Data Scientist?
+- Recruiting for Data Science
+- Careers in Data Science
+- High School Students and Data Science Careers
+
+## **The Report Structure**
+
+- The Report Structure
+- Quiz: The Report Structure
+- Final Assignment
+- What is a data science:
+    - story telling
+- All organizations ultimately use data science for the same reason—to discover optimum solutions to existing problems.
+- You must:
+    - Identify the problem
+    - establish a clear understanding
+    - Gather the data for analysis
+        - Identify the right tools to use
+        - develop a data strategy
+
+## Memo
+
+- in a nutshell
+    - 簡而言之
+- outlier
+    - 異於一般情況的人（或事物）
+    - 遠離某主要部分的地方
+- coin
+    - 首次使用（某一詞語）
+
+---
+
+# Week02 - Data Science Topics
+
+## ****Big Data and Data Mining****
+
+### Take-Home Message
+
+- How Big Data is defined by the Vs: Velocity, Volume, Variety, Veracity, and Value.
+    - Explinations
+        
+        Velocity is the speed at which data accumulates. Data is being generated extremely fast, in a process that never stops. Near or real-time streaming, local, and cloud-based technologies can process information very quickly. Volume is the scale of the data, or the increase in the amount of data stored. Drivers of volume are the increase in data sources, higher resolution sensors, and scalable infrastructure. Variety is the diversity of the data. Structured data fits neatly into rows and columns, in relational databases while unstructured data is not organized in a pre-defined way, like Tweets, blog posts, pictures, numbers, and video. Variety also reflects that data comes from different sources, machines, people, and processes, both internal and external to organizations. Drivers are mobile technologies, social media, wearable technologies, geo technologies, video, and many, many more. Veracity is the quality and origin of data, and its conformity to facts and accuracy. Attributes include consistency, completeness, integrity, and ambiguity. Drivers include cost and the need for traceability. With the large amount of data available, the debate rages on about the accuracy of data in the digital age. Is the information real, or is it false? Value is our ability and need to turn data into value. Value isn't just profit. It may have medical or social benefits, as well as customer, employee, or personal satisfaction. The main reason that people invest time to understand Big Data is to derive value from it.
+        
+- How Hadoop and other tools, combined with distributed computing power, are used to handle the demands of Big Data.
+- What skills are required to analyse Big Data.
+- About the process of Data Mining, and how it produces results.
+
+---
+
+## ****Deep Learning and Machine Learning****
+
+### Take-Home Message
+
+- The differences between some common Data Science terms, including Deep Learning and Machine Learning.
+- Deep Learning is a type of Machine Learning that simulates human decision-making using neural networks.
+- Machine Learning has many applications, from recommender systems that provide relevant choices for customers on commercial websites, to detailed analysis of financial markets.
+- How to use regression to analyze data.
+
+---
+
+# Week03 - Data Science in Business
+
+## ****Data Science in Business****
+
+- Data Science helps physicians provide the best treatment for their patients, and helps meteorologists predict the extent of local weather events, and can even help predict natural disasters like earthquakes and tornadoes.
+- That companies can start on their data science journey by capturing data. Once they have data, they can begin analysing it.
+- Some ways that data is generated by consumers.
+- How businesses like Netflix, Amazon, UPs, Google, and Apple use the data generated by their consumers and employees.
+- The purpose of the final deliverable of a Data Science project is to communicate new information and insights from the data analysis to key decision-makers.
+
+## ****Careers and Recruiting in Data Science****
+
+- Data Scientists need programming, mathematics, and database skills, many of which can be gained through self-learning.
+- Companies recruiting for a Data Science team need to understand the variety of different roles Data Scientists can play, and look for soft skills like storytelling and relationship building as well as technical skills.
+- High school students considering a career in Data Science should learn programming, math, databases, and, most importantly practice their skills.
+
+## ****The Report Structure****
+
+### **The Report Structure**
+
+Before starting the analysis, think about the structure of the report. Will it be a brief report of five or fewer pages, or will it be a longer document running more than 100 pages in length? The structure of the report depends on the length of the document. A brief report is more to the point and presents a summary of key findings. A detailed report incrementally builds the argument and contains details about other relevant works, research methodology, data sources, and intermediate findings along with the main results.
+
+I have reviewed reports by leading consultants including Deloitte and McKinsey. I found that the length of the reports varied depending largely on the purpose of the report. Brief reports were drafted as commentaries on current trends and developments that attracted public or media attention. Detailed and comprehensive reports offered a critical review of the subject matter with extensive data analysis and commentary. Often, detailed reports collected new data or interviewed industry experts to answer the research questions.
+
+Even if you expect the report to be brief, sporting five or fewer pages, I recommend that the deliverable follow a prescribed format including the cover page, table of contents, executive summary, detailed contents, acknowledgments, references, and appendices (if needed).
+
+I often find the cover page to be missing in documents. It is not the inexperience of undergraduate students that is reflected in submissions that usually miss the cover page. In fact, doctoral candidates also require an explicit reminder to include an informative cover page. I hasten to mention that the business world sleuths are hardly any better. Just search the Internet for reports and you will find plenty of reports from reputed firms that are missing the cover page.
+
+At a minimum, the cover page should include the title of the report, names of authors, their affiliations, and contacts, the name of the institutional publisher (if any), and the date of publication. I have seen numerous reports missing the date of publication, making it impossible to cite them without the year and month of publication. Also, from a business point of view, authors should make it easier for the reader to reach out to them. Having contact details at the front makes the task easier.
+
+"A table of contents (ToC)" is like a map needed for a trip never taken before. You need to have a sense of the journey before embarking on it. A map provides a visual proxy for the actual travel with details about the landmarks that you will pass by in your trip. The ToC with main headings and lists of tables and figures offers a glimpse of what lies ahead in the document. Never shy away from including a ToC, especially if your document, excluding cover page, table of contents, and references, is five or more pages in length.
+
+Even for a short document, I recommend an "abstract" or an "executive summary". Nothing is more powerful than explaining the crux of your arguments in three paragraphs or less. Of course, for larger documents running a few hundred pages, the executive summary could be longer. An "introductory section" is always helpful in setting up the problem for the reader who might be new to the topic and who might need to be gently introduced to the subject matter before being immersed in intricate details. A good follow-up to the introductory section is a review of available relevant research on the subject matter. The length of the literature review section depends upon how contested the subject matter is. In instances where the vast majority of researchers have concluded in one direction, the literature review could be brief with citations for only the most influential authors on the subject. On the other hand, if the arguments are more nuanced with caveats aplenty, then you must cite the relevant research to offer adequate context before you embark on your analysis. You might use the literature review to highlight gaps in the existing knowledge, which your analysis will try to fill. This is where you formally introduce your research questions and hypothesis.
+
+In the "methodology" section, you introduce the research methods and data sources you used for the analysis. If you have collected new data, explain the data collection exercise in some detail. You will refer to the literature review to bolster your choice for variables, data, and methods and how they will help you answer your research questions.
+
+The results section is where you present your empirical findings. Starting with descriptive statistics (**see Chapter 4, "Serving Tables"**) and illustrative graphics (**see Chapter S, "Graphic Details" for plots and Chapter 10, "Spatial Data Analytics" for maps**), you will move toward formally testing your hypothesis (**see Chapter 6, "Hypothetically Speaking"**).
+
+In case you need to run statistical models, you might turn to regression models (**see Chapter 7, "Why Tall Parents Don't Have Even Taller Children"**) or categorical analysis (**see Chapters 8, "To Be or Not to Be" and 2., "Categorically Speaking About Categorical Data"**). If you are working with time-series data, you can turn to Chapter 11, **Doing Serious Time with Time Series.** You can also report results from other empirical techniques that fall under the general rubric of data mining (**see Chapter 12, "Data Mining for Gold"**). Note that many reports in the business sector present results in a more palatable fashion by holding back the statistical details and relying on illustrative graphics to summarize the results.
+
+The results section is followed by the discussion section, where you craft your main arguments by building on the results you have presented earlier.
+
+The "discussion section" is where you rely on the power of narrative to enable numbers to communicate your thesis to your readers. You refer the reader to the research question and the knowledge gaps you identified earlier. You highlight how your findings provide the ultimate missing piece to the puzzle.
+
+Of course, not all analytics return a smoking gun. At times, more frequently than I would like to acknowledge, the results provide only a partial answer to the question and that, too, with a long list of caveats.
+
+In the "conclusion" section, you generalize your specific findings and take on a rather marketing approach to promote your findings so that the reader does not remain stuck in the caveats that you have voluntarily outlined earlier. You might also identify future possible developments in research and applications that could result from your research. What remains is housekeeping, including a list of references, the acknowledgment section (**acknowledging the support of those who have enabled your work is always good**), and "appendices", if needed.
+
+## **Have You Done Your Job as a Writer?**
+
+As a data scientist, you are expected to do thorough analysis with the appropriate data, deploying the appropriate tools. As a writer, you are responsible for communicating your findings to the readers. Transport Policy, a leading research publication in transportation planning, offers a checklist for authors interested in publishing with the journal. The checklist is a series of questions authors are expected to consider before submitting their manuscripts to the journal. I believe the checklist is useful for budding data scientists and, therefore, I have reproduced it verbatim for their benefit.
+
+- Have you told readers, at the outset, what they might gain by reading your paper?
+- Have you made the aim of your work clear?
+- Have you explained the significance of your contribution?
+- Have you set your work in the appropriate context by giving sufficient background (including a complete set of relevant references) to your work?
+- Have you addressed the question of practicality and usefulness?
+- Have you identified future developments that might result from your work?
+- Have you structured your paper in a clear and logical fashion?
+- 
+
+---
+
+- The length and content of the final report will vary depending on the needs of the project.
+- The structure of the final report for a Data Science project should include a cover page, table of contents, executive summary, detailed contents, acknowledgements, references and appendices.
+- The report should present a thorough analysis of the data and communicate the project findings.
