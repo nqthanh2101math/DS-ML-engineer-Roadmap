@@ -31,3 +31,11 @@
  .....
 <img width="355" alt="image" src="https://github.com/user-attachments/assets/7be319ff-6da6-4cdc-a176-7806ae328548" />
 <img width="2000" alt="image" src="https://github.com/user-attachments/assets/d8f324f1-ffd5-435c-ad2e-f8316e1c32a1" />
+- Ngôn ngữ lập trình: Python, R, C++, Java.		
++ Thư viện và framework AI: TensorFlow, PyTorch, Keras, Scikit-learn, OpenCV, Hugging Face.		
++ Thuật toán học máy và học sâu: Các thuật toán như 		hồi quy, phân loại, clustering, Mạng nơ-ron tích chập (CNN), Mạng nơ-ron hồi quy (RNN), Transformer.
++ Xử lý ngôn ngữ tự nhiên (NLP): Kỹ thuật như 		Word Embeddings, Attention Mechanisms, BERT, GPT, LSTM.
++ Thị giác máy tính: Các kỹ thuật như nhận diện đối 		tượng, phân đoạn ảnh, GANs, xử lý ảnh y tế.
++ Kỹ thuật tăng cường: Reinforcement Learning, 		Q-learning, Deep Q Networks (DQN).
++ Công nghệ cloud: Triển khai AI trên AWS, 		Google Cloud AI, Microsoft Azure.![image](https://github.com/user-attachments/assets/f77449f9-e686-4a49-aea1-2b2b53da04af)
+
