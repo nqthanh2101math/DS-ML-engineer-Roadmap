@@ -14,10 +14,4 @@ This course provides an introduction to the common programming languages used by
 - Creation and management/version control of source code for data science in GitHub.
 - Understanding of how IBM Watson Studio and other IBM data science tools can be used by data scientists.
 
-## 🏆 Certificates 
-To verify the certificates, click the images to follow the links.
 
-<p align="middle">
-  <a href="https://coursera.org/share/deb19e79cc31ea888623eb279fd32eab"><img src="https://user-images.githubusercontent.com/52702712/198277086-7ab547ed-5b45-44db-b1f1-c2a083a58d40.png" height="430"></a>
-  <a href="https://www.credly.com/badges/dc2f125f-f1b3-4235-97de-22421d1cc5c6/public_url"><img src="https://user-images.githubusercontent.com/52702712/198276386-cc081d3d-0c6d-49e4-b957-1197b235e9fe.png" height="430"></a>
-</p>
