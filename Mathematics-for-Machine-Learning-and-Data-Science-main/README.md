@@ -1,6 +1,7 @@
-# Mathematics for Machine Learning and Data Science by DeepLearning.AI
+[# Mathematics for Machine Learning and Data Science by DeepLearning.AI
 
 ***
+This is a material course from Mrunal Nirajkumar Shah. Tks so much!
 <p class="has-line-data" data-line-start="0" data-line-end="2">Hello,<br>
 Use it liberally.</p>
 
@@ -178,3 +179,4 @@ Use it liberally.</p>
          * [Graded Quiz](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/blob/main/03.%20Probability%20and%20Statistics/Week%204/02.%20Hypothesis%20Testing/02.%20Graded%20Quiz/GQuiz.png)
     * [Programming Assignment](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/tree/main/03.%20Probability%20and%20Statistics/Week%204/03.%20Graded%20Lab)
          * [C3W4_Assignment.ipynb](https://github.com/mrunalnshah/Mathematics-for-Machine-Learning-and-Data-Science/blob/main/03.%20Probability%20and%20Statistics/Week%204/03.%20Graded%20Lab/C3W4_Assignment.ipynb)
+](https://github.com/nqthanh2101math/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-Coursera)
