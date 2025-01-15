@@ -2,6 +2,7 @@
 > Step 1: Foundation of Data Science / Artificial Intelligence 
 + AI for Everyone - Coursera
 + IBM: Introduction to Data Science
++ IBM: Introduction to AI
 > Step 2: Mathematics ( Calculus - Linear Algebra - Prob&Stas)
 + Math for Machine Learning & Data Science Specialization - Coursera
 + Math for Machine Learning - Imperial College - Coursera
